@@ -5,7 +5,6 @@ Created on Jan 6, 2014
 '''
 import unittest
 import requests
-import configparser, os
 import json
 from configparser import ConfigParser
 
